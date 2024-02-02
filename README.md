@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! 👋 I'm Dheeraj Raghav👨‍💻
 
-<!--
-**DheerajRaghav123/DheerajRaghav123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about full-stack web development, exploring the ever-evolving world of technology. My journey involves crafting seamless and user-friendly web experiences by leveraging a range of technologies and frameworks.
 
-Here are some ideas to get you started:
+#### 🔧 Tech Stack:
+- Frontend: HTML, CSS, Tailind CSS, JavaScript, React ⚛️
+- Backend: Node.js, Express 🚀
+- Database: MongoDB, MySQL 📊
+- Tools: Git, VSCode 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🤝 Let's Connect:
+- LinkedIn: <a href="https://www.linkedin.com/in/dheeraj-raghav-642662264//">Dheeraj Raghav</a>
+
+Feel free to explore my repositories, and don't hesitate to connect or collaborate on exciting projects!
